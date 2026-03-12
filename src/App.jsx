@@ -25,7 +25,6 @@ const concepts = [
   // Corner 3: Low X, High Y, Low Z
   { name: 'Improvisational jazz (high skill, intuitive, unstructured)', x: 1, y: 9, z: 1 },
   // Corner 6: High X, Low Y, High Z
-  { name: 'Protocol following (no intuition)', x: 9, y: 1, z: 9 },
   // Corner 8: High X, High Y, High Z
   { name: 'Quantum field theory', x: 9, y: 9, z: 9 },
 ];
