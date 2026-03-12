@@ -4,7 +4,7 @@ A 3D visualization app for exploring relationships between abstract concepts, bu
 
 ## Live Demo
 
-[View Demo](#) <!-- Add link after Pages is up -->
+[View Demo](https://b1c3game.github.io/B1C3-Concept-Space/)
 
 ## Main Features
 
