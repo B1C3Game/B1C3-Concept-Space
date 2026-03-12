@@ -23,7 +23,6 @@ const concepts = [
   { name: 'Skateboarding tricks (Mullen/physics)', x: 4, y: 6, z: 4 },
   // Candidate data points for corners 2, 3, 6, 8
   // Corner 2: Low X, Low Y, High Z
-  { name: 'Superstition/folk belief (alien, unstructured, easy)', x: 1, y: 1, z: 9 },
   // Corner 3: Low X, High Y, Low Z
   { name: 'Improvisational jazz (high skill, intuitive, unstructured)', x: 1, y: 9, z: 1 },
   // Corner 6: High X, Low Y, High Z
