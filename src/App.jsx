@@ -44,11 +44,18 @@ const shifts = [
     y: concepts.map((c) => c.y),
     z: concepts.map((c) => c.z),
     text: concepts.map((c) => c.name),
+    customdata: concepts.map((c) => c.argument),
     mode: 'markers+text',
     type: 'scatter3d',
     marker: { size: 8, color: '#1f77b4' },
     textposition: 'top center',
     name: 'Concepts',
+    hovertemplate:
+      '<b>%{text}</b><br>' +
+      'X: %{x}<br>' +
+      'Y: %{y}<br>' +
+      'Z: %{z}<br>' +
+      '<br><i>%{customdata}</i><extra></extra>',
   };
 
   // Arrows for shifts
