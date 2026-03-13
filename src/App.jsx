@@ -102,7 +102,7 @@ function App() {
           scene: {
             xaxis: {
               title: {
-                text: 'Standardization (none → full)',
+                text: 'Concensus (meme coverage) (none → full)',
                 font: { size: 18 },
                 standoff: 20,
               },
@@ -134,7 +134,7 @@ function App() {
         config={{ displayModeBar: true, responsive: true }}
       />
       <div style={{ maxWidth: 700, margin: '2em auto', fontSize: '1.08em', background: '#f8f8fa', borderRadius: 8, padding: '1.5em', boxShadow: '0 2px 8px #0001' }}>
-        <b>X axis:</b> Standardization — How much structure or formalism exists for the concept. 0 = none, 10 = fully standardized.<br />
+        <b>X axis:</b> Concensus (meme coverage) — How much structure or formalism exists for the concept. 0 = none, 10 = fully consensual.<br />
         <b>Y axis:</b> Gamma (Cognitive Engagement) — The level of cognitive effort or abstraction needed. 0 = low, 10 = high.<br />
         <b>Z axis:</b> Cognitive Distance — How far the concept is from human-native experience. 0 = near/intuitive, 10 = far/abstract.<br />
         <br />
