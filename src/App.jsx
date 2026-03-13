@@ -27,6 +27,11 @@ const concepts = [
   // Corner 6: High X, Low Y, High Z
   // Corner 8: High X, High Y, High Z
   { name: 'Quantum field theory', x: 9, y: 9, z: 9 },
+  // User-supplied concepts
+  { name: 'Fairytales for kids', x: 8, y: 3, z: 2 },
+  { name: 'Predatory shaman', x: 2, y: 8, z: 9 },
+  { name: 'Joe Rogan', x: 6, y: 4, z: 5 },
+  { name: 'Actual shamanic medicine', x: 3, y: 7, z: 7 },
 ];
 
 // Shift pairs: [from, to]
