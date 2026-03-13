@@ -30,8 +30,7 @@ const concepts = [
   // User-supplied concepts
   { name: 'Fairytales for kids', x: 8, y: 3, z: 2 },
   { name: 'Predatory shaman', x: 2, y: 8, z: 9 },
-  { name: 'Joe Rogan', x: 6, y: 4, z: 5 },
-  { name: 'Actual shamanic medicine', x: 3, y: 7, z: 7 },
+  { name: 'Actual shamanic medicine', x: 3, y: 7, z: 3 },
 ];
 
 // Shift pairs: [from, to]
