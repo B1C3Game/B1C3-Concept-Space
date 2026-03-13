@@ -1,0 +1,236 @@
+[
+  {
+    "name": "ADHD without help",
+    "x": 1,
+    "y": 10,
+    "z": 5,
+    "argument": "Pattern recognition engine running full blast, no structure. High gamma, low consensus, cognitive distance all over the place.",
+    "proposed_by": "user",
+    "date": "2026-03-13"
+  },
+  {
+    "name": "ADHD with help (cognitive offloading, tools, structure)",
+    "x": 7,
+    "y": 10,
+    "z": 5,
+    "argument": "Same engine, but with rails. Same gamma, but the output goes somewhere. Cognitive distance becomes navigable because you have external memory, documentation, systems.",
+    "proposed_by": "user",
+    "date": "2026-03-13"
+  },
+  {
+    "name": "paranoia/hallucination",
+    "x": 0,
+    "y": 10,
+    "z": 0,
+    "argument": "Extreme cognitive engagement, no consensus, experience is near but not shared.",
+    "proposed_by": "user",
+    "date": "2026-03-13"
+  },
+  {
+    "name": "Synvilla",
+    "x": 8,
+    "y": 0,
+    "z": 0,
+    "argument": "High consensus, low gamma, near experience.",
+    "proposed_by": "user",
+    "date": "2026-03-13"
+  },
+  {
+    "name": "Cooking",
+    "x": 3,
+    "y": 2,
+    "z": 1,
+    "argument": "Common, low cognitive engagement, near experience.",
+    "proposed_by": "original",
+    "date": "2026-03-13"
+  },
+  {
+    "name": "Driving",
+    "x": 6,
+    "y": 3,
+    "z": 2,
+    "argument": "Moderate consensus, low gamma, near experience.",
+    "proposed_by": "original",
+    "date": "2026-03-13"
+  },
+  {
+    "name": "Counting / Native language",
+    "x": 8,
+    "y": 1,
+    "z": 0,
+    "argument": "Universal consensus, very low gamma, near experience.",
+    "proposed_by": "original",
+    "date": "2026-03-13"
+  },
+  {
+    "name": "Programming (traditional)",
+    "x": 7,
+    "y": 6,
+    "z": 5,
+    "argument": "High consensus, moderate gamma, moderate cognitive distance.",
+    "proposed_by": "original",
+    "date": "2026-03-13"
+  },
+  {
+    "name": "Programming (with AI)",
+    "x": 7,
+    "y": 4,
+    "z": 3,
+    "argument": "High consensus, lower gamma, lower cognitive distance due to AI assistance.",
+    "proposed_by": "original",
+    "date": "2026-03-13"
+  },
+  {
+    "name": "Relativity (Einstein's era)",
+    "x": 1,
+    "y": 9,
+    "z": 9,
+    "argument": "Low consensus, high gamma, far cognitive distance.",
+    "proposed_by": "original",
+    "date": "2026-03-13"
+  },
+  {
+    "name": "Relativity (textbook)",
+    "x": 7,
+    "y": 6,
+    "z": 8,
+    "argument": "High consensus, moderate gamma, far cognitive distance but more accessible.",
+    "proposed_by": "original",
+    "date": "2026-03-13"
+  },
+  {
+    "name": "Wave theory (SI/traditional)",
+    "x": 7,
+    "y": 7,
+    "z": 8,
+    "argument": "High consensus, high gamma, far cognitive distance.",
+    "proposed_by": "original",
+    "date": "2026-03-13"
+  },
+  {
+    "name": "Wave theory (B1C3 integer)",
+    "x": 5,
+    "y": 4,
+    "z": 4,
+    "argument": "Moderate consensus, lower gamma, closer cognitive distance due to new notation.",
+    "proposed_by": "original",
+    "date": "2026-03-13"
+  },
+  {
+    "name": "Arabic script (Swedish speaker)",
+    "x": 3,
+    "y": 5,
+    "z": 8,
+    "argument": "Low consensus, moderate gamma, far cognitive distance for non-native.",
+    "proposed_by": "original",
+    "date": "2026-03-13"
+  },
+  {
+    "name": "Arabic (with transliteration)",
+    "x": 5,
+    "y": 3,
+    "z": 4,
+    "argument": "Moderate consensus, lower gamma, closer cognitive distance due to transliteration.",
+    "proposed_by": "original",
+    "date": "2026-03-13"
+  },
+  {
+    "name": "Imaginary numbers (notation)",
+    "x": 6,
+    "y": 7,
+    "z": 9,
+    "argument": "High consensus, high gamma, far cognitive distance.",
+    "proposed_by": "original",
+    "date": "2026-03-13"
+  },
+  {
+    "name": "Imaginary numbers (POV explanation)",
+    "x": 6,
+    "y": 3,
+    "z": 3,
+    "argument": "High consensus, lower gamma, closer cognitive distance due to better explanation.",
+    "proposed_by": "original",
+    "date": "2026-03-13"
+  },
+  {
+    "name": "Logarithms (notation)",
+    "x": 7,
+    "y": 6,
+    "z": 7,
+    "argument": "High consensus, moderate gamma, far cognitive distance.",
+    "proposed_by": "original",
+    "date": "2026-03-13"
+  },
+  {
+    "name": "Logarithms (plain language)",
+    "x": 7,
+    "y": 3,
+    "z": 2,
+    "argument": "High consensus, lower gamma, closer cognitive distance due to plain language.",
+    "proposed_by": "original",
+    "date": "2026-03-13"
+  },
+  {
+    "name": "Skateboarding tricks (pre-Mullen)",
+    "x": 2,
+    "y": 9,
+    "z": 7,
+    "argument": "Low consensus, high gamma, far cognitive distance.",
+    "proposed_by": "original",
+    "date": "2026-03-13"
+  },
+  {
+    "name": "Skateboarding tricks (Mullen/physics)",
+    "x": 4,
+    "y": 6,
+    "z": 4,
+    "argument": "Moderate consensus, moderate gamma, closer cognitive distance due to physics explanation.",
+    "proposed_by": "original",
+    "date": "2026-03-13"
+  },
+  {
+    "name": "Improvisational jazz (high skill, intuitive, unstructured)",
+    "x": 1,
+    "y": 9,
+    "z": 1,
+    "argument": "Low consensus, high gamma, near experience but unstructured.",
+    "proposed_by": "original",
+    "date": "2026-03-13"
+  },
+  {
+    "name": "Quantum field theory",
+    "x": 9,
+    "y": 9,
+    "z": 9,
+    "argument": "High consensus, high gamma, far cognitive distance.",
+    "proposed_by": "original",
+    "date": "2026-03-13"
+  },
+  {
+    "name": "Fairytales for kids",
+    "x": 8,
+    "y": 3,
+    "z": 2,
+    "argument": "Everyone knows them, deeply propagated across cultures. Low engagement for listener, near experience.",
+    "proposed_by": "user",
+    "date": "2026-03-13"
+  },
+  {
+    "name": "Predatory shaman",
+    "x": 2,
+    "y": 8,
+    "z": 9,
+    "argument": "Small group, cult-like, high engagement in victim, far cognitive distance.",
+    "proposed_by": "user",
+    "date": "2026-03-13"
+  },
+  {
+    "name": "Actual shamanic medicine",
+    "x": 3,
+    "y": 7,
+    "z": 3,
+    "argument": "Pre-standardized, real pattern recognition, cognitive distance is navigable.",
+    "proposed_by": "user",
+    "date": "2026-03-13"
+  }
+]
