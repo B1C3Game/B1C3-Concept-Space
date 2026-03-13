@@ -2,6 +2,11 @@ import Plot from 'react-plotly.js';
 import './App.css';
 
 const concepts = [
+      // ADHD concepts
+      { name: 'ADHD without help', x: 1, y: 10, z: 5 },
+      { name: 'ADHD with help (cognitive offloading, tools, structure)', x: 7, y: 10, z: 5 },
+    { name: 'paranoia/hallucination', x: 0, y: 10, z: 0 },
+    { name: 'Synvilla', x: 8, y: 0, z: 0 },
   { name: 'Cooking', x: 3, y: 2, z: 1 },
   { name: 'Driving', x: 6, y: 3, z: 2 },
   { name: 'Counting / Native language', x: 8, y: 1, z: 0 },
@@ -35,6 +40,8 @@ const concepts = [
 
 // Shift pairs: [from, to]
 const shifts = [
+    // ADHD support shift
+    ['ADHD without help', 'ADHD with help (cognitive offloading, tools, structure)'],
   ['Wave theory (SI/traditional)', 'Wave theory (B1C3 integer)'],
   ['Arabic script (Swedish speaker)', 'Arabic (with transliteration)'],
   ['Imaginary numbers (notation)', 'Imaginary numbers (POV explanation)'],
