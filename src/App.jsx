@@ -11,7 +11,7 @@ function App() {
   const [concepts, setConcepts] = useState([]);
   const [loading, setLoading] = useState(true);
   useEffect(() => {
-    fetch('./src/nodes.json')
+    fetch('./nodes.json')
       .then((res) => res.json())
       .then((data) => {
         setConcepts(data);
