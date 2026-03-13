@@ -125,6 +125,7 @@ function App() {
                 standoff: 20,
               },
               range: [0, 10],
+              autorange: false,
               titlefont: { size: 18 },
             },
           },
